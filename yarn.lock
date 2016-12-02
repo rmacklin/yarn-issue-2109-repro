@@ -4,18 +4,18 @@
 
 is-array@^1.0.1:
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/is-array/-/is-array-1.0.1.tgz#e9850cc2cc860c3bc0977e84ccf0dd464584279a"
+  resolved is-array-1.0.1.tgz#e9850cc2cc860c3bc0977e84ccf0dd464584279a
 
 left-pad@1.1.2:
   version "1.1.2"
-  resolved "https://registry.yarnpkg.com/left-pad/-/left-pad-1.1.2.tgz#b46d4b36116fafb6f2814c30ecf3247bdfd842f7"
+  resolved left-pad-1.1.2.tgz#b46d4b36116fafb6f2814c30ecf3247bdfd842f7
 
 mime-db@~1.25.0:
   version "1.25.0"
-  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.25.0.tgz#c18dbd7c73a5dbf6f44a024dc0d165a1e7b1c392"
+  resolved mime-db-1.25.0.tgz#c18dbd7c73a5dbf6f44a024dc0d165a1e7b1c392
 
 mime-types@^2.1.13:
   version "2.1.13"
-  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.13.tgz#e07aaa9c6c6b9a7ca3012c69003ad25a39e92a88"
+  resolved mime-types-2.1.13.tgz#e07aaa9c6c6b9a7ca3012c69003ad25a39e92a88
   dependencies:
     mime-db "~1.25.0"
